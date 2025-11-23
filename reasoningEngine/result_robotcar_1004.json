@@ -1,0 +1,436 @@
+{
+    "1400075966244227": {
+        "actions_to_take": [
+            {
+                "rule_id": "46",
+                "action": "drive_carefully_and_slowly"
+            }
+        ],
+        "intention": [
+            "moving_forward"
+        ]
+    },
+    "1400075994865222": {
+        "actions_to_take": [
+            {
+                "rule_id": "46",
+                "action": "drive_carefully_and_slowly"
+            }
+        ],
+        "intention": [
+            "moving_forward"
+        ]
+    },
+    "1400076007176165": {
+        "actions_to_take": [
+            {
+                "rule_id": "49",
+                "action": "drive_carefully_and_slowly"
+            },
+            {
+                "rule_id": "46",
+                "action": "drive_carefully_and_slowly"
+            }
+        ],
+        "intention": [
+            "moving_forward"
+        ]
+    },
+    "1400076015800021": {
+        "actions_to_take": [
+            {
+                "rule_id": "46",
+                "action": "drive_carefully_and_slowly"
+            }
+        ],
+        "intention": [
+            "moving_forward"
+        ]
+    },
+    "1400076017237322": {
+        "actions_to_take": [
+            {
+                "rule_id": "38",
+                "action": "give_signal, wait_for_suitable_gap_before_move_off, watch_out_for_vulnerable_road_users"
+            },
+            {
+                "rule_id": "46",
+                "action": "drive_carefully_and_slowly"
+            }
+        ],
+        "intention": [
+            "turn_left"
+        ]
+    },
+    "1400076027298448": {
+        "actions_to_take": [
+            {
+                "rule_id": "49",
+                "action": "drive_carefully_and_slowly"
+            },
+            {
+                "rule_id": "46",
+                "action": "drive_carefully_and_slowly"
+            }
+        ],
+        "intention": [
+            "moving_forward"
+        ]
+    },
+    "1400076031610303": {
+        "actions_to_take": [
+            {
+                "rule_id": "59",
+                "action": "reduce_speed"
+            },
+            {
+                "rule_id": "49",
+                "action": "drive_carefully_and_slowly"
+            },
+            {
+                "rule_id": "46",
+                "action": "drive_carefully_and_slowly"
+            }
+        ],
+        "intention": [
+            "moving_forward"
+        ]
+    },
+    "1400076036672227": {
+        "actions_to_take": [
+            {
+                "rule_id": "49",
+                "action": "drive_carefully_and_slowly"
+            },
+            {
+                "rule_id": "46",
+                "action": "drive_carefully_and_slowly"
+            }
+        ],
+        "intention": [
+            "moving_forward"
+        ]
+    },
+    "1400076039546763": {
+        "actions_to_take": [
+            {
+                "rule_id": "49",
+                "action": "drive_carefully_and_slowly"
+            },
+            {
+                "rule_id": "46",
+                "action": "drive_carefully_and_slowly"
+            }
+        ],
+        "intention": [
+            "moving_forward"
+        ]
+    },
+    "1400076040984032": {
+        "actions_to_take": [
+            {
+                "rule_id": "49",
+                "action": "drive_carefully_and_slowly"
+            },
+            {
+                "rule_id": "46",
+                "action": "drive_carefully_and_slowly"
+            }
+        ],
+        "intention": [
+            "moving_forward"
+        ]
+    },
+    "1400076049482990": {
+        "actions_to_take": [
+            {
+                "rule_id": "49",
+                "action": "drive_carefully_and_slowly"
+            },
+            {
+                "rule_id": "46",
+                "action": "drive_carefully_and_slowly"
+            }
+        ],
+        "intention": [
+            "moving_forward"
+        ]
+    },
+    "1400076053794836": {
+        "actions_to_take": [
+            {
+                "rule_id": "1",
+                "action": "not_exceed_speed_limit"
+            },
+            {
+                "rule_id": "1",
+                "action": "not_exceed_speed_limit"
+            },
+            {
+                "rule_id": "49",
+                "action": "drive_carefully_and_slowly"
+            },
+            {
+                "rule_id": "46",
+                "action": "drive_carefully_and_slowly"
+            }
+        ],
+        "intention": [
+            "moving_forward"
+        ]
+    },
+    "1400076055232104": {
+        "actions_to_take": [
+            {
+                "rule_id": "49",
+                "action": "drive_carefully_and_slowly"
+            },
+            {
+                "rule_id": "46",
+                "action": "drive_carefully_and_slowly"
+            }
+        ],
+        "intention": [
+            "moving_forward"
+        ]
+    },
+    "1400076067542965": {
+        "actions_to_take": [
+            {
+                "rule_id": "46",
+                "action": "drive_carefully_and_slowly"
+            }
+        ],
+        "intention": [
+            "moving_forward"
+        ]
+    },
+    "1400076068980236": {
+        "actions_to_take": [
+            {
+                "rule_id": "45",
+                "action": "slow_down_and_not_overtaking"
+            },
+            {
+                "rule_id": "49",
+                "action": "drive_carefully_and_slowly"
+            }
+        ],
+        "intention": [
+            "moving_forward"
+        ]
+    },
+    "1400076070605015": {
+        "actions_to_take": [
+            {
+                "rule_id": "49",
+                "action": "drive_carefully_and_slowly"
+            }
+        ],
+        "intention": [
+            "moving_forward"
+        ]
+    },
+    "1400076073854679": {
+        "actions_to_take": [
+            {
+                "rule_id": "49",
+                "action": "drive_carefully_and_slowly"
+            }
+        ],
+        "intention": [
+            "moving_forward"
+        ]
+    },
+    "1400076082478526": {
+        "actions_to_take": [
+            {
+                "rule_id": "49",
+                "action": "drive_carefully_and_slowly"
+            },
+            {
+                "rule_id": "46",
+                "action": "drive_carefully_and_slowly"
+            }
+        ],
+        "intention": [
+            "moving_forward"
+        ]
+    },
+    "1400076085353152": {
+        "actions_to_take": [
+            {
+                "rule_id": "49",
+                "action": "drive_carefully_and_slowly"
+            },
+            {
+                "rule_id": "46",
+                "action": "drive_carefully_and_slowly"
+            }
+        ],
+        "intention": [
+            "moving_forward"
+        ]
+    },
+    "1400076093976982": {
+        "actions_to_take": [
+            {
+                "rule_id": "46",
+                "action": "drive_carefully_and_slowly"
+            }
+        ],
+        "intention": [
+            "moving_forward"
+        ]
+    },
+    "1400076095414248": {
+        "actions_to_take": [
+            {
+                "rule_id": "49",
+                "action": "drive_carefully_and_slowly"
+            }
+        ],
+        "intention": [
+            "moving_forward"
+        ]
+    },
+    "1400076099851054": {
+        "actions_to_take": [
+            {
+                "rule_id": "49",
+                "action": "drive_carefully_and_slowly"
+            },
+            {
+                "rule_id": "46",
+                "action": "drive_carefully_and_slowly"
+            }
+        ],
+        "intention": [
+            "moving_forward"
+        ]
+    },
+    "1400076104975360": {
+        "actions_to_take": [
+            {
+                "rule_id": "49",
+                "action": "drive_carefully_and_slowly"
+            },
+            {
+                "rule_id": "46",
+                "action": "drive_carefully_and_slowly"
+            }
+        ],
+        "intention": [
+            "moving_forward"
+        ]
+    },
+    "1400076108100076": {
+        "actions_to_take": [
+            {
+                "rule_id": "49",
+                "action": "drive_carefully_and_slowly"
+            },
+            {
+                "rule_id": "46",
+                "action": "drive_carefully_and_slowly"
+            }
+        ],
+        "intention": [
+            "moving_forward"
+        ]
+    },
+    "1400076109537371": {
+        "actions_to_take": [
+            {
+                "rule_id": "49",
+                "action": "drive_carefully_and_slowly"
+            },
+            {
+                "rule_id": "46",
+                "action": "drive_carefully_and_slowly"
+            }
+        ],
+        "intention": [
+            "moving_forward"
+        ]
+    },
+    "1400076112412008": {
+        "actions_to_take": [
+            {
+                "rule_id": "38",
+                "action": "give_signal, wait_for_suitable_gap_before_move_off, watch_out_for_vulnerable_road_users"
+            },
+            {
+                "rule_id": "49",
+                "action": "drive_carefully_and_slowly"
+            },
+            {
+                "rule_id": "46",
+                "action": "drive_carefully_and_slowly"
+            }
+        ],
+        "intention": [
+            "turn"
+        ]
+    },
+    "1400076118161181": {
+        "actions_to_take": [
+            {
+                "rule_id": "49",
+                "action": "drive_carefully_and_slowly"
+            },
+            {
+                "rule_id": "46",
+                "action": "drive_carefully_and_slowly"
+            }
+        ],
+        "intention": [
+            "moving_forward"
+        ]
+    },
+    "1400076125347666": {
+        "actions_to_take": [
+            {
+                "rule_id": "49",
+                "action": "drive_carefully_and_slowly"
+            },
+            {
+                "rule_id": "46",
+                "action": "drive_carefully_and_slowly"
+            }
+        ],
+        "intention": [
+            "moving_forward"
+        ]
+    },
+    "1400076126784938": {
+        "actions_to_take": [
+            {
+                "rule_id": "49",
+                "action": "drive_carefully_and_slowly"
+            },
+            {
+                "rule_id": "46",
+                "action": "drive_carefully_and_slowly"
+            }
+        ],
+        "intention": [
+            "moving_forward"
+        ]
+    },
+    "1400076130096975": {
+        "actions_to_take": [
+            {
+                "rule_id": "49",
+                "action": "drive_carefully_and_slowly"
+            },
+            {
+                "rule_id": "46",
+                "action": "drive_carefully_and_slowly"
+            }
+        ],
+        "intention": [
+            "moving_forward"
+        ]
+    }
+}

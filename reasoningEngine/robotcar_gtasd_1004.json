@@ -1,0 +1,453 @@
+{
+    "1400075966244227": {
+        "situation": [
+            "(ego, in, residential_area)",
+            "(ego, approaching, junction)"
+        ],
+        "control_device": [],
+        "road_user": [
+            "(car, right_lane_same_direction, stopped, stopped)",
+            "(pedestrian, left_sidewalk, walk_away, walk_away)",
+            "(car, far_away, moving_forward, moving_forward)"
+        ],
+        "intention": [
+            "(ego, moving_forward)"
+        ]
+    },
+    "1400075994865222": {
+        "situation": [
+            "(ego, in, residential_area)",
+            "(ego, at, junction)"
+        ],
+        "control_device": [],
+        "road_user": [
+            "(car, far_away, stopped, stopped)",
+            "(car, far_away, stopped, stopped)"
+        ],
+        "intention": [
+            "(ego, moving_forward)"
+        ]
+    },
+    "1400076007176165": {
+        "situation": [
+            "(ego, in, residential_area)",
+            "(ego, passing, parked_vehicles)"
+        ],
+        "control_device": [],
+        "road_user": [
+            "(car, right_lane_oncoming_direction, stopped, stopped)"
+        ],
+        "intention": [
+            "(ego, moving_forward)"
+        ]
+    },
+    "1400076015800021": {
+        "situation": [
+            "(ego, in, residential_area)",
+            "(ego, approaching, junction)"
+        ],
+        "control_device": [],
+        "road_user": [
+            "(pedestrian, left_sidewalk, walk_away, invisible)"
+        ],
+        "intention": [
+            "(ego, moving_forward)"
+        ]
+    },
+    "1400076017237322": {
+        "situation": [
+            "(ego, approaching, junction)",
+            "(ego, in, residential_area)"
+        ],
+        "control_device": [],
+        "road_user": [
+            "(car, far_away, stopped, stopped)",
+            "(pedestrian, left_sidewalk, walk_away, invisible)"
+        ],
+        "intention": [
+            "(ego, turn_left)"
+        ]
+    },
+    "1400076027298448": {
+        "situation": [
+            "(ego, in, residential_area)",
+            "(ego, passing, parked_vehicles)",
+            "(ego, approaching, narrowed_road)"
+        ],
+        "control_device": [
+        ],
+        "road_user": [
+            "(car, left_lane, stopped, stopped)",
+            "(truck, right_lane_same_direction, stopped, stopped)",
+            "(cyclist, right_lane_oncoming_direction, moving_forward, moving_forward)",
+            "(pedestrian, right_lane_oncoming_direction, moving_forward, moving_forward)",
+            "(pedestrian, right_sidewalk, walk_away, walk_away)"
+        ],
+        "intention": [
+            "(ego, moving_forward)"
+        ]
+    },
+    "1400076031610303": {
+        "situation": [
+            "(ego, in, residential_area)",
+            "(ego, passing, parked_vehicles)",
+            "(ego, approaching, vulnerable_road_user)",
+            "(ego, approaching, narrowed_road)"
+        ],
+        "control_device": [
+        ],
+        "road_user": [
+            "(cyclist, very_close_to, moving_forward, moving_forward)",
+            "(pedestrian, right_lane_oncoming_direction, moving_forward, moving_forward)",
+            "(car, left_lane, stopped, stopped)",
+            "(van, right_lane, stopped, invisible)"
+        ],
+        "intention": [
+            "(ego, moving_forward)"
+        ]
+    },
+    "1400076036672227": {
+        "situation": [
+            "(ego, in, residential_area)",
+            "(ego, passing, parked_vehicles)"
+        ],
+        "control_device": [],
+        "road_user": [
+            "(van, left_lane, stopped, stopped)",
+            "(truck, farawaw, stopped, stopped)",
+            "(car, right_lane_oncoming_direction, moving_forward, moving_forward)",
+            "(pedestrian, right_sidewalk, moving_forward, moving_forward)"
+        ],
+        "intention": [
+            "(ego, moving_forward)"
+        ]
+    },
+    "1400076039546763": {
+        "situation": [
+            "(ego, in, residential_area)",
+            "(ego, passing, parked_vehicles)"
+        ],
+        "control_device": [],
+        "road_user": [
+            "(van, left_lane, stopped, stopped)",
+            "(car, right_lane_oncoming_direction, moving_forward, invisible)",
+            "(truck, far_away, stopped, stopped)",
+            "(pedestrian, right_sidewalk, moving_forward, moving_forward)"
+        ],
+        "intention": [
+            "(ego, moving_forward)"
+        ]
+    },
+    "1400076040984032": {
+        "situation": [
+            "(ego, in, residential_area)",
+            "(ego, approaching, narrowed_road)",
+            "(ego, passing, parked_vehicles)"
+        ],
+        "control_device": [],
+        "road_user": [
+            "(van, left_lane, stopped, invisible)",
+            "(car, left_lane, stopped, stopped)",
+            "(truck, far_away, stopped, stopped)",
+            "(car, left_lane, stopped, stopped)",
+            "(pedestrian, right_sidewalk, moving_forward, moving_forward)"
+        ],
+        "intention": [
+            "(ego, moving_forward)"
+        ]
+    },
+    "1400076049482990": {
+        "situation": [
+            "(ego, in, residential_area)",
+            "(ego, passing, parked_vehicles)"
+        ],
+        "control_device": [],
+        "road_user": [
+            "(car, left_lane, stopped, stopped)",
+            "(car, right_lane_same_direction, stopped, stopped)"
+        ],
+        "intention": [
+            "(ego, moving_forward)"
+        ]
+    },
+    "1400076053794836": {
+        "situation": [
+            "(ego, in, residential_area)",
+            "(ego, passing, parked_vehicles)"
+        ],
+        "control_device": [
+            "(speed_limit_marking, relevant, exist, exist)"
+        ],
+        "road_user": [
+            "(car, left_lane, stopped, invisible)",
+            "(car, right_lane_same_direction, stopped, stopped)"
+        ],
+        "intention": [
+            "(ego, moving_forward)"
+        ]
+    },
+    "1400076055232104": {
+        "situation": [
+            "(ego, in, residential_area)",
+            "(ego, passing, parked_vehicles)"
+        ],
+        "control_device": [],
+        "road_user": [
+            "(car, right_lane_same_direction, stopped, stopped)",
+            "(car, left_lane, stopped, stopped)",
+            "(van, far_away, stopped, stopped)",
+            "(pedestrian, left_sidewalk, walk_away, invisible)",
+            "(oncoming_traffic, different_lane_front_of, invisible, invisible)"
+        ],
+        "intention": [
+            "(ego, moving_forward)"
+        ]
+    },
+    "1400076067542965": {
+        "situation": [
+            "(ego, in, residential_area)",
+            "(ego, approaching, junction)"
+        ],
+        "control_device": [],
+        "road_user": [
+            "(bus, right_lane_oncoming_direction, stopped, stopped)",
+            "(car, right_lane_oncoming_direction, stopped, stopped)"
+        ],
+        "intention": [
+            "(ego, moving_forward)"
+        ]
+    },
+    "1400076068980236": {
+        "situation": [
+            "(ego, in, buildup_area)",
+            "(ego, passing, parked_vehicles)",
+            "(ego, approaching, traffic_calming_measures)"
+        ],
+        "control_device": [],
+        "road_user": [
+            "(bus, right_lane_same_direction, stopped, stopped)",
+            "(car, right_lane_same_direction, stopped, stopped)",
+            "(car, left_lane, stopped, stopped)"
+        ],
+        "intention": [
+            "(ego, moving_forward)"
+        ]
+    },
+    "1400076070605015": {
+        "situation": [
+            "(ego, in, buildup_area)",
+            "(ego, passing, parked_vehicles)"
+        ],
+        "control_device": [],
+        "road_user": [
+            "(bus, left_lane, moving_forward, moving_forward)",
+            "(car, right_lane_same_direction, stopped, stopped)",
+            "(pedestrian, left_sidewalk, walk_away, walk_away)"
+        ],
+        "intention": [
+            "(ego, moving_forward)"
+        ]
+    },
+    "1400076073854679": {
+        "situation": [
+            "(ego, in, buildup_area)",
+            "(ego, passing, parked_vehicles)"
+        ],
+        "control_device": [],
+        "road_user": [
+            "(bus, right_lane_oncoming_direction, stopped, stopped)",
+            "(pedestrian, left_sidewalk, walk_away, walk_away)"
+        ],
+        "intention": [
+            "(ego, moving_forward)"
+        ]
+    },
+    "1400076082478526": {
+        "situation": [
+            "(ego, in, residential_area)",
+            "(ego, passing, parked_vehicles)"
+        ],
+        "control_device": [],
+        "road_user": [
+            "(car, right_lane_oncoming_direction, stopped, stopped)",
+            "(car, left_lane, stopped, stopped)"
+        ],
+        "intention": [
+            "(ego, moving_forward)"
+        ]
+    },
+    "1400076085353152": {
+        "situation": [
+            "(ego, in, residential_area)",
+            "(ego, passing, parked_vehicles)"
+        ],
+        "control_device": [],
+        "road_user": [
+            "(van, right_lane_oncoming_direction, moving_forward, moving_forward)",
+            "(car, left_lane, stopped, stopped)",
+            "(car, right_lane_same_direction, stopped, stopped)"
+        ],
+        "intention": [
+            "(ego, moving_forward)"
+        ]
+    },
+    "1400076093976982": {
+        "situation": [
+            "(ego, in, residential_area)",
+            "(ego, approaching, junction)"
+        ],
+        "control_device": [],
+        "road_user": [
+            "(van, right_lane, stopped, stopped)"
+        ],
+        "intention": [
+            "(ego, moving_forward)"
+        ]
+    },
+    "1400076095414248": {
+        "situation": [
+            "(ego, in, buildup_area)",
+            "(ego, passing, parked_vehicles)"
+        ],
+        "control_device": [],
+        "road_user": [
+            "(truck, right_lane_same_direction, stopped, stopped)",
+            "(car, right_lane_same_direction, stopped, stopped)"
+        ],
+        "intention": [
+            "(ego, moving_forward)"
+        ]
+    },
+    "1400076099851054": {
+        "situation": [
+            "(ego, in, residential_area)",
+            "(ego, passing, parked_vehicles)"
+        ],
+        "control_device": [],
+        "road_user": [
+            "(car, left_lane, stopped, stopped)",
+            "(van, right_lane_same_direction, stopped, stopped)",
+            "(car, right_lane_same_direction, stopped, stopped)"
+        ],
+        "intention": [
+            "(ego, moving_forward)"
+        ]
+    },
+    "1400076104975360": {
+        "situation": [
+            "(ego, in, residential_area)",
+            "(ego, passing, parked_vehicles)"
+        ],
+        "control_device": [],
+        "road_user": [
+            "(van, left_lane, stopped, stopped)",
+            "(car, left_lane, stopped, stopped)"
+        ],
+        "intention": [
+            "(ego, moving_forward)"
+        ]
+    },
+    "1400076108100076": {
+        "situation": [
+            "(ego, passing, parked_vehicles)",
+            "(ego, in, residential_area)"
+        ],
+        "control_device": [],
+        "road_user": [
+            "(van, right_lane_same_direction, stopped, stopped)",
+            "(car, right_lane_same_direction, stopped, stopped)"
+        ],
+        "intention": [
+            "(ego, moving_forward)"
+        ]
+    },
+    "1400076109537371": {
+        "situation": [
+            "(ego, passing, parked_vehicles)",
+            "(ego, in, residential_area)"
+        ],
+        "control_device": [],
+        "road_user": [
+            "(van, right_lane_same_direction, stopped, stopped)",
+            "(car, right_lane_same_direction, stopped, stopped)"
+        ],
+        "intention": [
+            "(ego, moving_forward)"
+        ]
+    },
+    "1400076112412008": {
+        "situation": [
+            "(ego, passing, parked_vehicles)",
+            "(ego, in, residential_area)",
+            "(ego, at, junction)"
+        ],
+        "control_device": [],
+        "road_user": [
+            "(car, right_lane_same_direction, stopped, invisible)"
+        ],
+        "intention": [
+            "(ego, turn)"
+        ]
+    },
+    "1400076118161181": {
+        "situation": [
+            "(ego, in, residential_area)",
+            "(ego, passing, parked_vehicles)"
+        ],
+        "control_device": [],
+        "road_user": [
+            "(car, left_lane, stopped, stopped)",
+            "(car, right_lane_same_direction, stopped, stopped)"
+        ],
+        "intention": [
+            "(ego, moving_forward)"
+        ]
+    },
+    "1400076125347666": {
+        "situation": [
+            "(ego, in, residential_area)",
+            "(ego, passing, parked_vehicles)"
+        ],
+        "control_device": [],
+        "road_user": [
+            "(car, right_lane_same_direction, stopped, stopped)",
+            "(car, left_lane, stopped, stopped)",
+            "(van, different_lane_front_of, stopped, stopped)",
+            "(car, different_lane_front_of, stopped, stopped)"
+        ],
+        "intention": [
+            "(ego, moving_forward)"
+        ]
+    },
+    "1400076126784938": {
+        "situation": [
+            "(ego, in, residential_area)",
+            "(ego, passing, parked_vehicles)"
+        ],
+        "control_device": [],
+        "road_user": [
+            "(car, left_lane, stopped, stopped)",
+            "(van, right_lane_oncoming_direction, stopped, stopped)",
+            "(car, left_lane, stopped, stopped)",
+            "(car, right_lane_oncoming_direction, stopped, stopped)"
+        ],
+        "intention": [
+            "(ego, moving_forward)"
+        ]
+    },
+    "1400076130096975": {
+        "situation": [
+            "(ego, in, residential_area)",
+            "(ego, passing, parked_vehicles)"
+        ],
+        "control_device": [],
+        "road_user": [
+            "(car, left_lane, turn_left, invisible)",
+            "(van, left_lane, stopped, stopped)",
+            "(car, right_lane_same_direction, stopped, invisible)"
+        ],
+        "intention": [
+            "(ego, moving_forward)"
+        ]
+    }
+}

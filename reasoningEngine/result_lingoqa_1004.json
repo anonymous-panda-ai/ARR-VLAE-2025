@@ -1,0 +1,648 @@
+{
+    "990fbf8f0b48da3a82613643b3827aa4": {
+        "actions_to_take": [
+            {
+                "rule_id": "38",
+                "action": "give_signal, wait_for_suitable_gap_before_move_off, watch_out_for_vulnerable_road_users"
+            },
+            {
+                "rule_id": "54",
+                "action": "drive_carefully_and_slowly"
+            }
+        ],
+        "intention": [
+            "turn_left"
+        ]
+    },
+    "78bda9041fc31a77da224df63f6b8cd0": {
+        "actions_to_take": [
+            {
+                "rule_id": "38",
+                "action": "give_signal, wait_for_suitable_gap_before_move_off, watch_out_for_vulnerable_road_users"
+            },
+            {
+                "rule_id": "54",
+                "action": "drive_carefully_and_slowly"
+            }
+        ],
+        "intention": [
+            "turn_right"
+        ]
+    },
+    "827bde02296744ffb57736407065478d": {
+        "actions_to_take": [
+            {
+                "rule_id": "36",
+                "action": "must_not_reverse"
+            },
+            {
+                "rule_id": "1",
+                "action": "not_exceed_speed_limit"
+            },
+            {
+                "rule_id": "1",
+                "action": "not_exceed_speed_limit"
+            },
+            {
+                "rule_id": "3",
+                "action": "keep_safe_distance"
+            },
+            {
+                "rule_id": "3",
+                "action": "keep_safe_distance"
+            },
+            {
+                "rule_id": "3",
+                "action": "keep_safe_distance"
+            }
+        ],
+        "intention": [
+            "moving_forward"
+        ]
+    },
+    "0f54dedab4ab997e8cdf97c570146292": {
+        "actions_to_take": [
+            {
+                "rule_id": "58",
+                "action": "start"
+            },
+            {
+                "rule_id": "3",
+                "action": "keep_safe_distance"
+            },
+            {
+                "rule_id": "3",
+                "action": "keep_safe_distance"
+            },
+            {
+                "rule_id": "2",
+                "action": "drive_carefully_and_slowly"
+            },
+            {
+                "rule_id": "6",
+                "action": "wait_for_suitable_gap_before_move_off, watch_out_for_vulnerable_road_users"
+            }
+        ],
+        "intention": [
+            "moving_forward"
+        ]
+    },
+    "a1109658670fb29d13ac113d322c004c": {
+        "actions_to_take": [
+            {
+                "rule_id": "27",
+                "action": "stop_behind_white_line"
+            },
+            {
+                "rule_id": "1",
+                "action": "not_exceed_speed_limit"
+            },
+            {
+                "rule_id": "1",
+                "action": "not_exceed_speed_limit"
+            }
+        ],
+        "intention": [
+            "moving_forward"
+        ]
+    },
+    "16ac40a0f73c04115c5ab188d7922491": {
+        "actions_to_take": [
+            {
+                "rule_id": "46",
+                "action": "drive_carefully_and_slowly"
+            },
+            {
+                "rule_id": "58",
+                "action": "start"
+            }
+        ],
+        "intention": [
+            "moving_forward"
+        ]
+    },
+    "ee230014b451c96aa1e690f112ed6738": {
+        "actions_to_take": [
+            {
+                "rule_id": "46",
+                "action": "drive_carefully_and_slowly"
+            },
+            {
+                "rule_id": "4",
+                "action": "give_way_to_vulnerable_road_users"
+            },
+            {
+                "rule_id": "1",
+                "action": "not_exceed_speed_limit"
+            },
+            {
+                "rule_id": "1",
+                "action": "not_exceed_speed_limit"
+            },
+            {
+                "rule_id": "4",
+                "action": "give_way_to_vulnerable_road_users"
+            },
+            {
+                "rule_id": "62",
+                "action": "give_way_to_traffic_on_main_road"
+            },
+            {
+                "rule_id": "62",
+                "action": "give_way_to_traffic_on_main_road"
+            },
+            {
+                "rule_id": "62",
+                "action": "give_way_to_traffic_on_main_road"
+            }
+        ],
+        "intention": [
+            "moving_forward"
+        ]
+    },
+    "40d730969d4fd2469790189ae721bd10": {
+        "actions_to_take": [
+            {
+                "rule_id": "53",
+                "action": "drive_carefully_and_slowly"
+            },
+            {
+                "rule_id": "56",
+                "action": "drive_carefully_and_slowly"
+            },
+            {
+                "rule_id": "58",
+                "action": "start"
+            }
+        ],
+        "intention": [
+            "moving_forward"
+        ]
+    },
+    "43e53c341ab5aae565705dede4de87ab": {
+        "actions_to_take": [
+            {
+                "rule_id": "46",
+                "action": "drive_carefully_and_slowly"
+            },
+            {
+                "rule_id": "53",
+                "action": "drive_carefully_and_slowly"
+            },
+            {
+                "rule_id": "56",
+                "action": "drive_carefully_and_slowly"
+            }
+        ],
+        "intention": [
+            "moving_forward"
+        ]
+    },
+    "45b587bf54ee9db25085eb483cac242e": {
+        "actions_to_take": [
+            {
+                "rule_id": "53",
+                "action": "drive_carefully_and_slowly"
+            },
+            {
+                "rule_id": "1",
+                "action": "not_exceed_speed_limit"
+            },
+            {
+                "rule_id": "1",
+                "action": "not_exceed_speed_limit"
+            },
+            {
+                "rule_id": "4",
+                "action": "give_way_to_vulnerable_road_users"
+            },
+            {
+                "rule_id": "4001",
+                "action": "Stop_at_the_crossing"
+            },
+            {
+                "rule_id": "61",
+                "action": "give_way_to_vulnerable_road_users"
+            }
+        ],
+        "intention": [
+            "moving_forward"
+        ]
+    },
+    "3561e15b7feb2e922e9c962754f75dde": {
+        "actions_to_take": [
+            {
+                "rule_id": "53",
+                "action": "drive_carefully_and_slowly"
+            },
+            {
+                "rule_id": "63",
+                "action": "drive_carefully_and_slowly"
+            },
+            {
+                "rule_id": "56",
+                "action": "drive_carefully_and_slowly"
+            }
+        ],
+        "intention": [
+            "moving_forward"
+        ]
+    },
+    "94dee4a9b5603e9cbac8c2444d6cda6e": {
+        "actions_to_take": [
+            {
+                "rule_id": "46",
+                "action": "drive_carefully_and_slowly"
+            },
+            {
+                "rule_id": "3",
+                "action": "keep_safe_distance"
+            },
+            {
+                "rule_id": "3",
+                "action": "keep_safe_distance"
+            },
+            {
+                "rule_id": "3",
+                "action": "keep_safe_distance"
+            },
+            {
+                "rule_id": "3",
+                "action": "keep_safe_distance"
+            }
+        ],
+        "intention": [
+            "moving_forward"
+        ]
+    },
+    "e07246bab040227c8561572a226333d5": {
+        "actions_to_take": [
+            {
+                "rule_id": "53",
+                "action": "drive_carefully_and_slowly"
+            },
+            {
+                "rule_id": "60",
+                "action": "watch_out_to_vulnerable_road_users"
+            }
+        ],
+        "intention": [
+            "moving_forward"
+        ]
+    },
+    "f294651150b7727859aaf5d0e3ab9f2e": {
+        "actions_to_take": [
+            {
+                "rule_id": "53",
+                "action": "drive_carefully_and_slowly"
+            },
+            {
+                "rule_id": "58",
+                "action": "start"
+            },
+            {
+                "rule_id": "60",
+                "action": "watch_out_to_vulnerable_road_users"
+            },
+            {
+                "rule_id": "6",
+                "action": "wait_for_suitable_gap_before_move_off, watch_out_for_vulnerable_road_users"
+            }
+        ],
+        "intention": [
+            "moving_forward"
+        ]
+    },
+    "04c64714f8a1bf28da156721ed7eff32": {
+        "actions_to_take": [
+            {
+                "rule_id": "53",
+                "action": "drive_carefully_and_slowly"
+            },
+            {
+                "rule_id": "42",
+                "action": "not_switch_lanes, not_overtake, take_extra_care_on_vulnerable"
+            },
+            {
+                "rule_id": "42",
+                "action": "not_switch_lanes, not_overtake, take_extra_care_on_vulnerable"
+            }
+        ],
+        "intention": [
+            "moving_forward"
+        ]
+    },
+    "2506f1593774d92c0e46c61a8b6fb61e": {
+        "actions_to_take": [
+            {
+                "rule_id": "53",
+                "action": "drive_carefully_and_slowly"
+            }
+        ],
+        "intention": [
+            "moving_forward"
+        ]
+    },
+    "97a2a11eb970cb429cf1cf8457123fab": {
+        "actions_to_take": [
+            {
+                "rule_id": "49",
+                "action": "drive_carefully_and_slowly"
+            },
+            {
+                "rule_id": "1",
+                "action": "not_exceed_speed_limit"
+            },
+            {
+                "rule_id": "1",
+                "action": "not_exceed_speed_limit"
+            },
+            {
+                "rule_id": "2",
+                "action": "drive_carefully_and_slowly"
+            }
+        ],
+        "intention": [
+            "moving_forward"
+        ]
+    },
+    "ab4845470b41f0e123da50c996c35745": {
+        "actions_to_take": [
+            {
+                "rule_id": "27",
+                "action": "stop_behind_white_line"
+            },
+            {
+                "rule_id": "4",
+                "action": "give_way_to_vulnerable_road_users"
+            },
+            {
+                "rule_id": "6",
+                "action": "wait_for_suitable_gap_before_move_off, watch_out_for_vulnerable_road_users"
+            },
+            {
+                "rule_id": "62",
+                "action": "give_way_to_traffic_on_main_road"
+            }
+        ],
+        "intention": [
+            "stop"
+        ]
+    },
+    "f376bb31c1f1f01cb9aa5c2887800ab1": {
+        "actions_to_take": [
+            {
+                "rule_id": "36",
+                "action": "must_not_reverse"
+            },
+            {
+                "rule_id": "1",
+                "action": "not_exceed_speed_limit"
+            },
+            {
+                "rule_id": "1",
+                "action": "not_exceed_speed_limit"
+            },
+            {
+                "rule_id": "3",
+                "action": "keep_safe_distance"
+            }
+        ],
+        "intention": [
+            "moving_forward"
+        ]
+    },
+    "d082bdc55d81a79652063c87996514aa": {
+        "actions_to_take": [
+            {
+                "rule_id": "36",
+                "action": "must_not_reverse"
+            },
+            {
+                "rule_id": "3",
+                "action": "keep_safe_distance"
+            }
+        ],
+        "intention": [
+            "moving_forward"
+        ]
+    },
+    "ddabf1e10d3aa1c5eeee62063fccf692": {
+        "actions_to_take": [
+            {
+                "rule_id": "49",
+                "action": "drive_carefully_and_slowly"
+            },
+            {
+                "rule_id": "36",
+                "action": "must_not_reverse"
+            },
+            {
+                "rule_id": "3",
+                "action": "keep_safe_distance"
+            },
+            {
+                "rule_id": "3",
+                "action": "keep_safe_distance"
+            },
+            {
+                "rule_id": "3",
+                "action": "keep_safe_distance"
+            },
+            {
+                "rule_id": "3",
+                "action": "keep_safe_distance"
+            }
+        ],
+        "intention": [
+            "moving_forward"
+        ]
+    },
+    "556f9177eda8301534e145f1d2287736": {
+        "actions_to_take": [
+            {
+                "rule_id": "38",
+                "action": "give_signal, wait_for_suitable_gap_before_move_off, watch_out_for_vulnerable_road_users"
+            },
+            {
+                "rule_id": "27",
+                "action": "stop_behind_white_line"
+            },
+            {
+                "rule_id": "6",
+                "action": "wait_for_suitable_gap_before_move_off, watch_out_for_vulnerable_road_users"
+            }
+        ],
+        "intention": [
+            "turn_right"
+        ]
+    },
+    "dad2e5f536e0c7a91e4929405eeb19da": {
+        "actions_to_take": [
+            {
+                "rule_id": "48",
+                "action": "drive_carefully_and_slowly"
+            },
+            {
+                "rule_id": "1",
+                "action": "not_exceed_speed_limit"
+            },
+            {
+                "rule_id": "1",
+                "action": "not_exceed_speed_limit"
+            }
+        ],
+        "intention": [
+            "moving_forward"
+        ]
+    },
+    "9a4487ea65f5fc2dd9afccc5bfa5d329": {
+        "actions_to_take": [
+            {
+                "rule_id": "1",
+                "action": "not_exceed_speed_limit"
+            },
+            {
+                "rule_id": "1",
+                "action": "not_exceed_speed_limit"
+            },
+            {
+                "rule_id": "3",
+                "action": "keep_safe_distance"
+            },
+            {
+                "rule_id": "3",
+                "action": "keep_safe_distance"
+            },
+            {
+                "rule_id": "2",
+                "action": "drive_carefully_and_slowly"
+            },
+            {
+                "rule_id": "2",
+                "action": "drive_carefully_and_slowly"
+            }
+        ],
+        "intention": [
+            "moving_forward"
+        ]
+    },
+    "8acfd91fc5488115f4a96cfb9901b35c": {
+        "actions_to_take": [
+            {
+                "rule_id": "36",
+                "action": "must_not_reverse"
+            },
+            {
+                "rule_id": "53",
+                "action": "drive_carefully_and_slowly"
+            },
+            {
+                "rule_id": "60",
+                "action": "watch_out_to_vulnerable_road_users"
+            }
+        ],
+        "intention": [
+            "moving_forward"
+        ]
+    },
+    "a92897f3de30fa1578ddf84dbf708ebe": {
+        "actions_to_take": [
+            {
+                "rule_id": "53",
+                "action": "drive_carefully_and_slowly"
+            },
+            {
+                "rule_id": "60",
+                "action": "watch_out_to_vulnerable_road_users"
+            },
+            {
+                "rule_id": "60",
+                "action": "watch_out_to_vulnerable_road_users"
+            }
+        ],
+        "intention": [
+            "moving_forward"
+        ]
+    },
+    "852232e46c71d346dcb9f223647c0970": {
+        "actions_to_take": [
+            {
+                "rule_id": "53",
+                "action": "drive_carefully_and_slowly"
+            },
+            {
+                "rule_id": "1",
+                "action": "not_exceed_speed_limit"
+            },
+            {
+                "rule_id": "1",
+                "action": "not_exceed_speed_limit"
+            },
+            {
+                "rule_id": "60",
+                "action": "watch_out_to_vulnerable_road_users"
+            }
+        ],
+        "intention": [
+            "moving_forward"
+        ]
+    },
+    "0c137e4925941da4553d0ce02ab9c770": {
+        "actions_to_take": [
+            {
+                "rule_id": "46",
+                "action": "drive_carefully_and_slowly"
+            },
+            {
+                "rule_id": "1",
+                "action": "not_exceed_speed_limit"
+            },
+            {
+                "rule_id": "1",
+                "action": "not_exceed_speed_limit"
+            },
+            {
+                "rule_id": "45",
+                "action": "slow_down_and_not_overtaking"
+            },
+            {
+                "rule_id": "3",
+                "action": "keep_safe_distance"
+            }
+        ],
+        "intention": [
+            "moving_forward"
+        ]
+    },
+    "192ddf6ced03be1ea37e716d960eb1d4": {
+        "actions_to_take": [
+            {
+                "rule_id": "27",
+                "action": "stop_behind_white_line"
+            },
+            {
+                "rule_id": "6",
+                "action": "wait_for_suitable_gap_before_move_off, watch_out_for_vulnerable_road_users"
+            }
+        ],
+        "intention": [
+            "stopped"
+        ]
+    },
+    "f6d832c4b3279c6491278500918e792e": {
+        "actions_to_take": [
+            {
+                "rule_id": "1",
+                "action": "not_exceed_speed_limit"
+            },
+            {
+                "rule_id": "1",
+                "action": "not_exceed_speed_limit"
+            }
+        ],
+        "intention": [
+            "moving_forward"
+        ]
+    }
+}
